@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection using machine learning
+![credit card fraud detection](https://www.shutterstock.com/image-vector/futuristic-glowing-credit-card-on-600w-2125665095.jpg)
 This repository contains Credit card fraud detection algorithm using machine learning techniques in python.
 
 **_Credit Card Fraud Detection_** : With a lot of people, banks and online retailer being a victim of credit card fraud, a model detecting whether the transaction is fraud or not
